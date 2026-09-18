@@ -48,7 +48,7 @@
 
 <https://auto.link.com>
 
-[Ссылочный стиль].[1]
+[Ссылочный стиль][1]
 [1]: https://auto.link.com
 
 
